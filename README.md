@@ -6,6 +6,10 @@ The Open Organization Maturity Model is a resource for organizations seeking to 
 
 It is derived from [the Open Organization Definition](https://github.com/open-organization-ambassadors/open-org-definition) and maintained by [the Open Organization community](www.theopenorganization.org).
 
+## Additional resources
+
+[The Open Organization Capability Model](https://www.ready-to-innovate.com/openorg/) forks and operationalizes this maturity model in an interactive, open source tool that is [also seeking feedback, modification, and enhancement](https://github.com/redhat-cop/open-organization).
+
 ## Current version
 
 2.0  
